@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "nombre": "Almendras",
+        "precio": 1200,
+        "categoria": "Frutos secos",
+        "descripcion": "Almendras frescas de calidad superior.",
+        "imagen": "https://plus.unsplash.com/premium_photo-1675237626334-5cf9d9d8b30c?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 2,
+        "nombre": "Nueces",
+        "precio": 1200,
+        "categoria": "Frutos secos",
+        "descripcion": "Nueces con cáscara para mayor frescura.",
+        "imagen": "https://images.unsplash.com/photo-1524593656068-fbac72624bb0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 3,
+        "nombre": "Pistachos",
+        "precio": 1220,
+        "categoria": "Frutos secos",
+        "descripcion": "Pistachos selectos, perfectos para picar.",
+        "imagen": "https://plus.unsplash.com/premium_photo-1726072356920-a39aaa49ce89?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 4,
+        "nombre": "Avellanas",
+        "precio": 1200,
+        "categoria": "Frutos secos",
+        "descripcion": "Avellanas tostadas y crujientes.",
+        "imagen": "https://plus.unsplash.com/premium_photo-1668508855051-ef728818d482?q=80&w=2022&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 5,
+        "nombre": "Castañas de Cajú",
+        "precio": 1200,
+        "categoria": "Frutos secos",
+        "descripcion": "Castañas de cajú de sabor único.",
+        "imagen": "https://images.unsplash.com/photo-1598049025533-dbd5c11c2462?q=80&w=2034&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 6,
+        "nombre": "Pasas de Uva",
+        "precio": 1200,
+        "categoria": "Frutos secos",
+        "descripcion": "Pasas dulces y jugosas.",
+        "imagen": "https://images.unsplash.com/photo-1608842850202-06e70ead4c10?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 7,
+        "nombre": "Higos Secos",
+        "precio": 5.50,
+        "categoria": "Frutos secos",
+        "descripcion": "Higos secos con sabor intensamente dulce.",
+        "imagen": "https://plus.unsplash.com/premium_photo-1669205340693-755739ea443d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 8,
+        "nombre": "Arándanos Secos",
+        "precio": 6.80,
+        "categoria": "Frutos secos",
+        "descripcion": "Arándanos secados al sol para mantener su sabor.",
+        "imagen": "https://images.unsplash.com/photo-1625989906121-2953d3dc4c91?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 9,
+        "nombre": "Mix de Frutos Secos",
+        "precio": 10.00,
+        "categoria": "Mezclas",
+        "descripcion": "Una mezcla de almendras, nueces y pasas.",
+        "imagen": "https://plus.unsplash.com/premium_photo-1668677227454-213252229b73?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+]
